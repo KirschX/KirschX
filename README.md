@@ -1,9 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=200&section=header&text=Jung-HyeonWook&fontSize=90" />
 <p align="center">
-<!--   <a href="https://qiita.com/JeongJaeSoon"><img src="https://img.shields.io/badge/94soon-dev.log-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/JeongJaeSoon"/></a>&nbsp -->
   <a href="mailto:mk44879@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mk44879@gmail.com"/></a>&nbsp
-  <a href="https://https://velog.io/@sun1301/"><img src="https://img.shields.io/badge/velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://https://velog.io/@sun1301/"/></a>&nbsp
+  <a href="https://velog.io/@sun1301/"><img src="https://img.shields.io/badge/velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@sun1301/"></a>&nbsp
 </p>
 
 <p align="center">
